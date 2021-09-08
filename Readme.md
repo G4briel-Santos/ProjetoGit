@@ -1,1 +1,1 @@
-Estou aprendendo a utilizar o git! :) 
+Estou aprendendo a utilizar o git!
